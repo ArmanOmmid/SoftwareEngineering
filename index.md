@@ -22,10 +22,9 @@
 It has many integrated and functional features... like eyes, a nose, and even a mouth.
 ![ArmanOmmidFace](ArmanOmmidHeadshot.png)
 
-Some inspiration for you on behalf of Dunder Mifflin's finest:
- > "You miss 100% of the shots you don't take." *- Wayne Gretzky*
-
-*\- Michael Scott*
+Some inspirational ancient wisdom for you:
+ > "A wise man is like a faucet. He always has the drip."*
+*\- Lao Tzu*
 \
 \
 Here's an XOR Shift Random Number Generator I like to use (C++)... how fun!!! 
