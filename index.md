@@ -8,7 +8,7 @@
 
 ### **My Background**
 - Raised and living in San Diego.
-- Major: Computer Science | Minor: Cognitive Science.
+- Major: Computer Science \| Minor: Cognitive Science.
 - Did a SWE internship at General Atomics over the summer.
 - Have done many ML / DL projects on my own time.
 
