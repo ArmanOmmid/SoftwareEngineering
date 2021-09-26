@@ -13,7 +13,8 @@
 - Have done many ML / DL projects on my own time.
 
 ### **My Career Plans**
-- After graduating with my B.S. I plan to pursue graduate school and get a Master's Degree specializing in ML / DL / Computer Vision.- However, I'm open-minded about exploring Cybersecurity and Quantum Computing. 
+- After graduating with my B.S. I plan to pursue graduate school and get a Master's Degree specializing in ML / DL / Computer Vision
+- However, I'm open-minded about exploring Cybersecurity and Quantum Computing. 
 - I intend to work in the industry while I do my Masters, then work full time in the industry once I complete my Master's program. 
 
 Here is a picture of my face. It has many integrated and functional features... like eyes, a nose, and even a mouth.
@@ -22,8 +23,9 @@ Here is a picture of my face. It has many integrated and functional features... 
 Some inspiration for you on behalf of Dunder Mifflin's finest:
  > "You miss 100% of the shots you don't take." - Wayne Gretzky
 
-\- Michael Scott
-
+*\- Michael Scott*
+\
+\
 Here's an XOR Shift Random Number Generator I like to use (C++)... how fun!!! 
 ```
 uint64_t xorshift(void) {
@@ -45,9 +47,10 @@ Link to my [User Page Start](#arman-ommids-user-page).
 Link to my [README.md File](README.md).
 
 **My Top 5 Animals (Ranked)**
-1. Capybaras
+1. [Capybaras](https://www.treehugger.com/thmb/7AgJ_pPvjBUoJRFoLo8I7X5Ihxk=/3061x2296/smart/filters:no_upscale()/GettyImages-528162130-53d0c5076eb14915ade61b5d3021294f.jpg)
    - Chill Level: 100
    - Literally the chillest
+   - [Proof](https://i.redd.it/1752wrs7qhsy.png)
 2. Pangolins
    - VERY respectful
    - Loyal
