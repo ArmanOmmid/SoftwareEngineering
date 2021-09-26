@@ -55,11 +55,11 @@ Link to my [README.md File](README.md).
    - [Proof](https://i.redd.it/1752wrs7qhsy.png)
 2. [Pangolins](https://i.redd.it/roo1e2wd2c951.jpg)
    - VERY respectful
-   - Loyal
+   - Environmentally Conscientious
    - Polite about gender pronouns
 3. [Bees](https://api.time.com/wp-content/uploads/2017/03/bumble-bee-endangered-species-trump.jpeg?quality=85&w=1200&h=628&crop=1)
    - Self explanatory
-4. [Whale Sharks](https://i.insider.com/5d1a31f02516e92a1014446b?width=700)
+4. [Whale Sharks](https://www.greenpeace.org/usa/wp-content/uploads/2015/06/GP01C3W_Web_size.jpg)
    - Big but humble about it
    - Why not
 5. [African Bullfrogs](https://www.thesprucepets.com/thmb/0mGrChXtmzuoDOYE1Y3CbbntRIA=/1883x1412/smart/filters:no_upscale()/GettyImages-148611850-584f93145f9b58a8cd106c13.jpg)
@@ -67,9 +67,11 @@ Link to my [README.md File](README.md).
    - Probably the realest homies out there
    - Beautiful on the inside
    - You could name yours Seymour
+   - [Oh Lawd He Comin'](https://www.warrenphotographic.co.uk/photography/bigs/46698-African-Bullfrog-walking-white-background.jpg)
+   - [Absolute Unit](https://images.fineartamerica.com/images-medium-large-5/african-bullfrog-or-giant-pyxie-m-watson.jpg)
 
 **Real Life Benefits For The Earth Being Flat**
-- We could flip it over and it would be cool like the cold side of a pillow and boom no more global warming.
+- We could flip it over and it would be cool like the cold side of a pillow and then boom no more global warming.
 - No more walking uphill.
 - Spheres just aren't fashionable anymore. 
 
