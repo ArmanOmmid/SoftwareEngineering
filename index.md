@@ -1,14 +1,17 @@
 # **Arman Ommid's User Page**
 ## ***Welcome to my User Page***
+
 ### **My Interests**
 - Machine Learning / Deep Learning, Psychology, Cognitive/Neuroscience, and Philosophy!
 - Basketball, Tabletop Games, Video Games, Nature Hiking, Movies/TV Shows (Marvel!)... recently started exploring Scuba Diving!
-- Also I don't know much about physics but I LOVE reading about it. 
+- Also I don't know much about physics but I LOVE reading about it.
+
 ### **My Background**
 - Raised and living in San Diego.
 - Muir Senior - Majoring in Computer Science, Minoring in Cognitive Science.
 - Did a SWE internship at General Atomics over the summer.
 - Have done many ML / DL projects on my own time.
+
 ### **My Career Plans**
 - After graduating with my B.S. I plan to pursue graduate school and get a Master's Degree specializing in ML / DL / Computer Vision.- However, I'm open-minded about exploring Cybersecurity and Quantum Computing. 
 - I intend to work in the industry while I do my Masters, then work full time in the industry once I complete my Master's program. 
@@ -18,7 +21,7 @@ Here is a picture of my face. It has many integrated and functional features... 
 
 Some inspiration for you on behalf of Dunder Mifflin's finest:
  > "You miss 100% of the shots you don't take." - Wayne Gretzky
-\
+
 \- Michael Scott
 
 Here's an XOR Shift Random Number Generator I like to use (C++)... how fun!!! 
