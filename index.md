@@ -24,6 +24,7 @@ It has many integrated and functional features... like eyes, a nose, and even a 
 
 Some inspirational ancient wisdom for you:
  > "A wise man is like a faucet. He always has the drip."*
+
 *\- Lao Tzu*
 \
 \
