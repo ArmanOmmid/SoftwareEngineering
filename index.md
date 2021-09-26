@@ -48,7 +48,7 @@ Link to my [User Page Start](#arman-ommids-user-page).
 \
 Link to my [README.md File](README.md).
 
-**My Top 5 Animals (Ranked)**
+**My Top 5 Animals (Ranked w/ Reasoning)**
 1. [Capybaras](https://www.treehugger.com/thmb/7AgJ_pPvjBUoJRFoLo8I7X5Ihxk=/3061x2296/smart/filters:no_upscale()/GettyImages-528162130-53d0c5076eb14915ade61b5d3021294f.jpg)
    - Chill Level: 100
    - Literally the chillest
