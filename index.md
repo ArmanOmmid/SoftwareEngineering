@@ -17,11 +17,13 @@
 - However, I'm open-minded about exploring Cybersecurity and Quantum Computing. 
 - I intend to work in the industry while I do my Masters, then work full time in the industry once I complete my Master's program. 
 
-Here is a picture of my face. It has many integrated and functional features... like eyes, a nose, and even a mouth.
+**Here is a picture of my face.**
+\
+It has many integrated and functional features... like eyes, a nose, and even a mouth.
 ![ArmanOmmidFace](ArmanOmmidHeadshot.png)
 
 Some inspiration for you on behalf of Dunder Mifflin's finest:
- > "You miss 100% of the shots you don't take." - Wayne Gretzky
+ > "You miss 100% of the shots you don't take." *- Wayne Gretzky*
 
 *\- Michael Scott*
 \
@@ -51,16 +53,16 @@ Link to my [README.md File](README.md).
    - Chill Level: 100
    - Literally the chillest
    - [Proof](https://i.redd.it/1752wrs7qhsy.png)
-2. Pangolins
+2. [Pangolins](https://i.redd.it/roo1e2wd2c951.jpg)
    - VERY respectful
    - Loyal
    - Polite about gender pronouns
-3. Bees
+3. [Bees](https://api.time.com/wp-content/uploads/2017/03/bumble-bee-endangered-species-trump.jpeg?quality=85&w=1200&h=628&crop=1)
    - Self explanatory
-4. Whale Sharks
+4. [Whale Sharks](https://i.insider.com/5d1a31f02516e92a1014446b?width=700)
    - Big but humble about it
    - Why not
-5. African Bullfrogs
+5. [African Bullfrogs](https://www.thesprucepets.com/thmb/0mGrChXtmzuoDOYE1Y3CbbntRIA=/1883x1412/smart/filters:no_upscale()/GettyImages-148611850-584f93145f9b58a8cd106c13.jpg)
    - They don't care about your stupid opinions
    - Probably the realest homies out there
    - Beautiful on the inside
