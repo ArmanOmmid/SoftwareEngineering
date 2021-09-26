@@ -10,10 +10,10 @@
 - Raised and living in San Diego.
 - Major: Computer Science \| Minor: Cognitive Science.
 - Did a SWE internship at General Atomics over the summer.
-- Have done many ML / DL projects on my own time.
+- Have done many ML/DL projects on my own time.
 
 ### **My Career Plans**
-- After graduating with my B.S. I plan to pursue graduate school and get a Master's Degree specializing in ML / DL / Computer Vision.
+- After graduating with my B.S. I plan to pursue graduate school and get a Master's Degree specializing in ML/DL/Computer Vision.
 - However, I'm open-minded about exploring Cybersecurity and Quantum Computing. 
 - I intend to work in the industry while I do my Master's, then work full time in the industry once I complete my Master's program. 
 
