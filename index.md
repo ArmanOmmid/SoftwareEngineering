@@ -55,10 +55,10 @@ Link to my [README.md File](README.md).
    - [Proof](https://i.redd.it/1752wrs7qhsy.png)
 2. [Pangolins](https://i.redd.it/roo1e2wd2c951.jpg)
    - VERY respectful
-   - Environmentally Conscientious
+   - Environmentally conscientious
    - Polite about gender pronouns
 3. [Bees](https://api.time.com/wp-content/uploads/2017/03/bumble-bee-endangered-species-trump.jpeg?quality=85&w=1200&h=628&crop=1)
-   - Self explanatory
+   - Self-explanatory
 4. [Whale Sharks](https://www.greenpeace.org/usa/wp-content/uploads/2015/06/GP01C3W_Web_size.jpg)
    - Big but humble about it
    - Why not
